@@ -51,6 +51,13 @@ body {
   background-color: #6882A2;
 }
 
+@media screen and (max-width: 800px) {
+  body {
+    margin: auto;
+    line-height: normal;
+  }
+}
+
 /*
 Palette 1:
 #0E072A -- navy blue
