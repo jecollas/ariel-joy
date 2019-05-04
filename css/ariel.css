@@ -1,0 +1,68 @@
+/*ariel css*/
+
+button {
+  border-radius: 50%;
+  padding: 80px;
+  /* display: block; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  background-color: #40041C;
+  border-style: solid;
+  border-color: #191938;
+  display: inline-block;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  box-shadow: 0 9px #999;
+}
+
+button:hover {
+  background-color: #6A0208;
+}
+
+button:active {
+  /* background-color: #B70003; */
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 80px;
+  color: #0E072A;
+}
+
+#affect {
+font-family: 'Lato', sans-serif;
+color: #191938;
+}
+
+body {
+  margin: 2em;
+  text-align: center;
+  font-size: 40px;
+  background-color: #6882A2;
+}
+
+/*
+Palette 1:
+#0E072A -- navy blue
+#0A1359 -- dark blue
+#6882A2 -- like a soft blue grey
+#B70003 -- a nice red
+#6A0208 -- a dark red thing
+
+Palette 2:
+#000022 -- navy blue
+#191938 -- dark blue but not as saturated
+#2B2B43 -- blue/gre i like it
+#F00102 -- nice red
+#C10000 -- more red
+*/
